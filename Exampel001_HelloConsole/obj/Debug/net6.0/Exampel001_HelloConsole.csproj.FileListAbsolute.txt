@@ -1,0 +1,15 @@
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\bin\Debug\net6.0\Exampel001_HelloConsole.exe
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\bin\Debug\net6.0\Exampel001_HelloConsole.deps.json
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\bin\Debug\net6.0\Exampel001_HelloConsole.runtimeconfig.json
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\bin\Debug\net6.0\Exampel001_HelloConsole.dll
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\bin\Debug\net6.0\Exampel001_HelloConsole.pdb
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.AssemblyInfo.cs
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.dll
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\refint\Exampel001_HelloConsole.dll
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.pdb
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\Exampel001_HelloConsole.genruntimeconfig.cache
+C:\Users\Валерий\Desktop\Финансовый аналитик\1 четверть 2023\Знакомство с языками программирования\Examples\Exampel001_HelloConsole\obj\Debug\net6.0\ref\Exampel001_HelloConsole.dll
